@@ -1,0 +1,29 @@
+input,fuzzy_sex,knn_sex,rf_sex,fuzzy_race,knn_race,rf_race
+male,M,M,M,,White,White
+man,M,M,M,,White,White
+Men,M,F,F,,White,White
+M,M,F,F,,Other,White
+MALEE,M,F,F,,White,White
+female,F,F,F,,Asian,Asian
+Femaile,F,F,F,,White,White
+woman (self-identified),F,F,F,,Black,Black
+girl,F,F,F,,Black,Black
+lady,F,F,F,,White,White
+non-binary,O,F,O,,Black,Other
+nb,O,F,F,,Black,Other
+trans male,M,M,M,,Other,White
+trans-female,F,F,F,,Asian,Other
+Prefer not to say,,M,M,,White,White
+,,F,F,,Other,White
+White,,F,F,White,White,White
+Whtie,,M,M,White,White,White
+Caucasian/EU,,M,M,White,White,White
+Asian - Indian,,M,M,Asian,Asian,Asian
+chinese,,M,M,Asian,White,Asian
+black african,,F,F,Black,Black,Black
+african american,,F,F,Black,Black,Black
+blk,,F,F,Black,White,White
+mixed race,,F,O,Other,Black,Other
+pacific islander,,F,O,Other,Black,Other
+unknown,,F,F,,Other,White
+patient says male but wrote 'lady' in notes,M,M,M,White,Other,White
